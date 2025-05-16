@@ -1,13 +1,11 @@
 # Hi, I'm Udani Lokuhetti 👋
 
 ## 🚀 About Me
-I'm a [Your role] based in [Your location] who loves building awesome websites and applications.
+I'm a Software Engineering Undergraduate based in Colombo who loves building awesome websites and applications.
 
-- 🔭 I’m currently working on [project]
-- 🌱 I’m currently learning [technology]
-- 💬 Ask me about [topics]
-- 📫 How to reach me: [email or LinkedIn]
-- ⚡ Fun fact: [fun fact]
+- 🌱 I’m currently learning Quality Assuarance principles, Next.js, C#
+- 💬 Ask me about front-end development and freelance tips
+- 📫 How to reach me: https://www.linkedin.com/in/udani-lokuhetti-4210822ab/
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -16,7 +14,7 @@ I'm a [Your role] based in [Your location] who loves building awesome websites a
 <!-- Add more badges -->
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=udanilokuhetti92&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=udanilokuhetti92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
