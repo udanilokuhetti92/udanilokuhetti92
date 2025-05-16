@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Your Name 👋
 
-<!--
-**udanilokuhetti92/udanilokuhetti92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a [Your role] based in [Your location] who loves building awesome websites and applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [project]
+- 🌱 I’m currently learning [technology]
+- 💬 Ask me about [topics]
+- 📫 How to reach me: [email or LinkedIn]
+- ⚡ Fun fact: [fun fact]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+<!-- Add more badges -->
+
+## 📈 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
