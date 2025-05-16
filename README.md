@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/udanilokuhetti92/your-repo/main/assets/wave-header.svg" alt="Wave header"/>
-</p>
-
 # Hi, I'm Udani Lokuhetti 👋
 
 Welcome to my GitHub profile!
