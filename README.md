@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Udani Lokuhetti!
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/udanilokuhetti92/your-repo/main/assets/wave-header.svg" alt="Wave header"/>
+</p>
 
-Welcome to my GitHub! I'm a passionate full-stack developer focused on building beautiful and functional web applications.
+# Hi, I'm Udani Lokuhetti 👋
 
+Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
@@ -65,7 +68,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 
 - 📧 Email: udanikasurika@gmail.com
 - 💼 LinkedIn: [Visit Linkedin Profile](https://www.linkedin.com/in/udani-lokuhetti-4210822ab/)
-- 🌐 Portfolio: [Visit Portfolio]((https://udanilokuhetti.netlify.app/))
+- 🌐 Portfolio: [Visit Portfolio](https://udanilokuhetti.netlify.app/)
 
 ---
 
