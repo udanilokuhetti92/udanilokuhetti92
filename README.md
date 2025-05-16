@@ -63,8 +63,9 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [udanikasurika@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/udani-lokuhetti-4210822ab/)
+- 📧 Email: [Send me an email] (udanikasurika@gmail.com)
+- 💼 LinkedIn: [Visit Linkedin Profile](https://www.linkedin.com/in/udani-lokuhetti-4210822ab/)
+- 🌐 Portfolio: [Visit Portfolio]([https://www.linkedin.com/in/udani-lokuhetti-4210822ab/](https://udanilokuhetti.netlify.app/))
 
 ---
 
