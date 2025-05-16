@@ -29,3 +29,8 @@ I'm a Software Engineering Undergraduate based in Colombo who loves building awe
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=udanilokuhetti92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
